@@ -54,7 +54,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse School 
+- Microverse School git
 
 ## 📝 License
 
